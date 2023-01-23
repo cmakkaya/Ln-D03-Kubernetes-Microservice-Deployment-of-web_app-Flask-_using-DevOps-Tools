@@ -1,0 +1,2 @@
+içinde şifre olan token dosyalar var hepsini repoya atma
+config ve secret dosyalarına bak.
